@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# private config files
+wifi.h
